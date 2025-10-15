@@ -1,6 +1,3 @@
-# github-final-project
-Part of the IBM DevOps certification course
-
 ### A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 ## Input:
 *   p, principal amount
